@@ -1,10 +1,10 @@
-# C# Basics for Beginners - Part 1 - Template
+# C# Basics for Beginners - Part 16 - Template
 
 This is the template for learning C# in this video series [https://learn.microsoft.com/en-us/shows/csharp-for-beginners/](https://learn.microsoft.com/en-us/shows/csharp-for-beginners/)
 
 ## Table of Contents
 
-- [C# Basics for Beginners - Part 1 - Template](#c-basics-for-beginners---part-1---template)
+- [C# Basics for Beginners - Part 16 - Template](#c-basics-for-beginners---part-16---template)
   - [Table of Contents](#table-of-contents)
   - [How to Rename Solution for VS Code](#how-to-rename-solution-for-vs-code)
 
